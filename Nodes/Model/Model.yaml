@@ -1,0 +1,15 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Speed
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Power
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: StatusOnOff
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
